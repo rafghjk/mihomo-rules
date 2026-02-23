@@ -1,0 +1,15 @@
+payload:
+ - PROCESS-NAME,Tabby.exe
+ - PROCESS-NAME,Atlas.exe
+ - PROCESS-NAME,RiotClientServices.exe
+ - PROCESS-NAME,RiotClientCrashHandler.exe
+ - PROCESS-NAME,LeagueClientUxRender.exe
+ - PROCESS-NAME,LeagueClientUx.exe
+ - PROCESS-NAME,LeagueClient.exe
+ - PROCESS-NAME,LeagueCrashHandler64.exe
+ - PROCESS-NAME,League of Legends.exe
+ - PROCESS-NAME,vgtray.exe
+ - PROCESS-NAME,cs2.exe
+ - PROCESS-NAME,csgo.exe
+ - PROCESS-NAME,hl2.exe
+ - PROCESS-NAME,hl.exe
