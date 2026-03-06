@@ -11,5 +11,6 @@ payload:
  - PROCESS-NAME,vgtray.exe
  - PROCESS-NAME,cs2.exe
  - PROCESS-NAME,csgo.exe
+ - PROCESS-NAME,csgo_linux64
  - PROCESS-NAME,hl2.exe
  - PROCESS-NAME,hl.exe
